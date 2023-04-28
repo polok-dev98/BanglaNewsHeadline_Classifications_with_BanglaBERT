@@ -1,5 +1,7 @@
 # Fine tune Bangla-bert model for Bangla news headline classifications.
 
+# About this phone:
+
 1. Perform text pre-processing such as cleaning, stop_words remove, stemming and visualize the data for analysis.
 
 2. Used Bangla-BERT-Base Tokenizer to tokenize, build the sequence of intergers of these tokens and others pre-processing steps which is required by BERT model to feed input for training purposes.
